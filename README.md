@@ -1,4 +1,4 @@
-# LechugaELP’s Sapiens panel theme for (Xfce4)
+# LechugaELP’s Sapiens panel theme (for Xfce4)
 ## What is the Sapiens theme?
 
 - The Sapiens theme intends to replicate the feel of 2000s’ aesthetics, some may know it as “Skeumorphic design” while other know it as “Frutiger Aero”. Deep down, we all know what it is.   

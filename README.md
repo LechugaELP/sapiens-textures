@@ -20,6 +20,15 @@
   - Fedora  
   - Mint  
   - SUSE
+ 
+### What Icons and GTK theme are good to pair with this? 
+- I would personally recommend (because I use) these themes: 
+  - Icons:
+    - humanity-icon-theme (old Ubuntu)
+    - gnome-icon-theme (old GNOME)
+    - mint-x-icons
+  - GTK Theme: 
+    - human-theme-gtk (old Ubuntu)
 
 ## Installation: 
 
